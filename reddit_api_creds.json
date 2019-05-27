@@ -1,0 +1,5 @@
+{
+  "client_id": "generate at http://reddit.com/prefs/apps",
+  "client_secret": "generate at http://reddit.com/prefs/apps",
+  "user_agent": "cRedditNotebookTuM"
+}
